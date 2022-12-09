@@ -1,0 +1,7 @@
+{
+"label":"Sort Favorite List",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Sort Favorite List"
+}

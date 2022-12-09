@@ -1,0 +1,67 @@
+Trimui Smart RGH Tomato (release v1.2) 09/12/2022
+
+Extract the zip file to the root of your sd card preformatted to fat32. Add your roms in the apropriate Roms folders and all the artwork in Imgs folder on root in the apropriate folders that have been pre created.Please make sure you have the corect bios files in place for systems to work thanks.
+
+Systems 61 Total.
+
+Changelog from v1.1
+*New system 3d0 (Opera)
+*New system Amiga cdtv
+*New system Arduboy (ARDUOUS)
+*New system Atari ST
+*New system Coleco
+*New system C64
+*New system Sharp X1
+*New system Fairchild ChannelF
+*New system EasyRPG GameEngine
+*New system Vetrex
+*New system Phillips Videopac 
+*New system Sharp X68000
+*New icons updated to match Miyoo mini releases.
+*Systems now split WS,WSC,NGP,NGC,GB,GBC
+
+*Alternate Game Boy/Color and Game Boy Advance cores: 
+*Pokémon mini, PICO-8, and Virtual Boy cores: 
+*Kill/Revive BG Music: 
+*Disable LED: 
+*Commander app:
+
+
+Systems 46 Total.
+
+Changelog from v1.0
+*New system Amiga
+*New system Amigacd 32
+*New system CPC
+*New system NEOCD
+*New system SCUMMVM
+*New system SUPERVISION
+*New system TIC 80
+*New system MS-DOS
+*New system ZXS
+*New system SGB
+*New system MSX
+*New icons updated to match Miyoo mini releases.
+
+Mods applied to this release thanks to @shauninman
+
+*Alternate Game Boy/Color and Game Boy Advance cores: 
+*Pokémon mini, PICO-8, and Virtual Boy cores: 
+*Kill/Revive BG Music: 
+*Disable LED: 
+*Commander app: 
+
+
+Thanks to all the developers that contributed to the release below.
+
+
+Thanks to 
+shauninman
+Jdewitz
+Ramon
+takano32
+e1000
+Aemiii91
+Jutleys
+Community for support
+Miyoo team

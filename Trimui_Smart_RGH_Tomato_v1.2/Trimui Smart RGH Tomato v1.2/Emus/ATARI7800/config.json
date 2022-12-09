@@ -1,0 +1,11 @@
+{
+"label":"ATARI 7800",
+"icon":"atari7800.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/ATARI7800",
+"imgpath":"../../Imgs/ATARI7800",
+"useswap":0,
+"shortname":0,
+"hidebios":0
+}

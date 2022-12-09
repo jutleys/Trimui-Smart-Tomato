@@ -1,0 +1,12 @@
+{
+"label":"SUPER GB",
+"icon":"SGB.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/SGB",
+"imgpath":"../../Imgs/SGB",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

@@ -1,0 +1,12 @@
+{
+"label":"ARDUBOY",
+"icon":"ARDUOUS.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/ARDUBOY",
+"imgpath":"../../Imgs/ARDUBOY",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

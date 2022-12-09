@@ -1,0 +1,7 @@
+{
+"label":"Commander",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Commander"
+}
