@@ -1,10 +1,77 @@
-Trimui Smart RGH Tomato (release v1.2) 09/12/2022
+Trimui Smart RGH Tomato (release v1.5) 19/01/2023 
 
-Extract the zip file to the root of your sd card preformatted to fat32. Add your roms in the apropriate Roms folders and all the artwork in Imgs folder on root in the apropriate folders that have been pre created.Please make sure you have the corect bios files in place for systems to work thanks.
+Instructions
+Extract the zip file to the root of your sd card preformatted to fat32. Add your roms in the apropriate Roms folders and all the artwork in Imgs folder on root in the apropriate folders that have been pre created.Please make sure you have the corect bios files in place for systems to work in .retroarch/systems
+
+
+Systems 73 Total.
+Changelog v1.5 
+*New system SATELLAVIEW (thanks Ramon).
+*New system Nintendo - Famicom Disk Syst. (FCEUmm)
+*New system mu Palm palm apps/games.
+*New system bk elektronikabk.
+*New system NEC - PC-98 Nekop2 (Neko Project II).
+*New system NEC - PC-8000 (Quasi88).
+*New system Commodore - VIC-20 (VICE xvic).
+*New system Bandai - Sufami Turbo (snes9x).
+*New icons to fit screen better on some systems (thanks Vaidotas)
+*New apps screenshot (thanks eggs).
+*New apps SimpleTerminal (thanks eggs).
+*New apps Clock adjustment daemon for TRIMUI smart (thanks eggs).
+*New apps DinguxCommander : Latest version of Dingux Commander, images and texts can be viewed (thanks eggs).
+*New apps FastBoot Patched to make boot-up 3 seconds faster (thanks eggs).
+*GameBoy and Color Roms folder Merged.
+*WonderSwan and Color Roms folder Merged.
+*All .retroarch/cores updated.
+*RetroArch with Achievements enabled on the default launcher of the TrimUI, Just need  to configure it by launcher the Retroarch App and going into settings and setting your account and password.(thanks joss)
+*RetroArch Configure to start ScreenSaver After RetroArch Menu being open for 10s (Simulate Standby).
+*Pico-8 ROMS have to be the .p8 format.
+
+# Shortcuts
+## TrimUI:
+Sound Down and UP - Select + L/R
+Brightness Down and UP - Start + L/R
+
+## RetroArch:
+#### Select +
+UP - Save State
+
+Down - Load State
+
+Left - ScreenShot
+
+Right - Show FPS
+
+
+
+Systems 66 Total.
+Changelog v1.4
+*New Telnetd-r1 setup your telnet server and all you remote, wireless access to your device.Thanks to HYJINX187 instructions in apps and folder of telnet.
+
+
+Systems 66 Total.
+Changelog v1.3
+*New system Megaduck (sameduck)
+*New system Thomson (Theodore)
+*New system Uzebox (Uzem)
+*New system Love (Lutro)
+*New system Java J2ME (SquirrelJME)
+*New icons for new systems created by Vaidotas
+*Remove some obsolete files.
+*Rename some files 
+
+Mods applied 
+*Alternate Game Boy/Color and Game Boy Advance cores: 
+*Pokémon mini, PICO-8, and Virtual Boy cores: 
+*Kill/Revive BG Music: 
+*Disable LED: 
+*Commander app:
+
+
 
 Systems 61 Total.
 
-Changelog from v1.1
+Changelog v1.2
 *New system 3d0 (Opera)
 *New system Amiga cdtv
 *New system Arduboy (ARDUOUS)
@@ -29,7 +96,7 @@ Changelog from v1.1
 
 Systems 46 Total.
 
-Changelog from v1.0
+Changelog v1.1
 *New system Amiga
 *New system Amigacd 32
 *New system CPC
@@ -56,12 +123,19 @@ Thanks to all the developers that contributed to the release below.
 
 
 Thanks to 
+Jutleys
 shauninman
+eggs
+Joss
 Jdewitz
 Ramon
+TAKANO Mitsuhiro
 takano32
 e1000
 Aemiii91
-Jutleys
+Vaidotas
+HYJINX187
 Community for support
 Miyoo team
+Trimui dev team
+
