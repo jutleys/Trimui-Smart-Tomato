@@ -1,4 +1,4 @@
-# Trimui-Smart-Tomato 
+# Trimui-Smart-Tomato  
 Trimui Smart RGH Tomato (release v1.5) 19/01/2023 
 
 Instructions
