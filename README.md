@@ -19,6 +19,14 @@ It will create the folders necessary and move the files to the correct location
 ## Systems 73 Total.
 ## Changelog v1.5.2
 
+*Added a new app to move the files to the new more user-friendly location
+
+*Added a new app to group and ungroup emulators: GB-GBC, WS-WSC and FC-SFC
+
+*Added a new app to remove .gitkeep files inside Roms folders, to avout cluttering the list
+
+*Added new filters to retroarch
+
 *Removed old Retroarch folder which could cause freezing in retroarch.
 
 *Removed game core files from Emus folders as now scrips point to .retroarch/cores resulting in a smaller file to download.

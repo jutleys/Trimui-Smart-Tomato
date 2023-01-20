@@ -24,6 +24,8 @@ Please make sure you have the corect bios files in place for systems to work pla
 
 *Added a new app to remove .gitkeep files inside Roms folders, to avout cluttering the list
 
+*Added new filters to retroarch
+
 *Removed old Retroarch folder which could cause freezing in retroarch.
 
 *Removed game core files from Emus folders as now scrips point to .retroarch/cores resulting in a smaller file to download.
