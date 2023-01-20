@@ -9,6 +9,12 @@ Please make sure you have the corect bios files in place for systems to work pla
 
 #### IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETE GITKEEPAPP
 
+## NEW OPTION TO UPDATE
+
+If updating from version 1.5.1 or lower, just copy over the new files to the SD card, and run the new app "Move files for Update"
+
+It will create the folders necessary and move the files to the correct location
+
 
 ## Systems 73 Total.
 ## Changelog v1.5.1
