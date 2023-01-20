@@ -1,5 +1,5 @@
 {
-    "label":"4 - Toggle Combined Emulators",
+    "label":"4 - Toggle Combined",
     "icon":"",
     "iconsel":"",
     "launch":"launch.sh",

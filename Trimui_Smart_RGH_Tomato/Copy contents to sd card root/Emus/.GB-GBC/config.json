@@ -1,6 +1,6 @@
 {
 "label":"GB/GBC",
-"icon":"ic-gb.png",
+"icon":"gbgbc.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/GB",
