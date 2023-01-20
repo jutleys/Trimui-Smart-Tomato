@@ -7,6 +7,8 @@ Add your roms in the apropriate Roms folders and all the artwork in Imgs folder 
 
 Please make sure you have the corect bios files in place for systems to work place your bios files in SDcard/Bios
 
+#### IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETE GITKEEPAPP
+
 
 ## Systems 73 Total.
 ## Changelog v1.5.1
