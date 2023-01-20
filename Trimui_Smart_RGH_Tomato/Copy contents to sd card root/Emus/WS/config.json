@@ -3,7 +3,7 @@
 "icon":"ic-WS.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/WS",
+"rompath":"../../Roms/WS/WS",
 "imgpath":"../../Imgs/WS",
 "useswap":0,
 "shortname":0,

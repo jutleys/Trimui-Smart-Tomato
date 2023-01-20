@@ -3,7 +3,7 @@
 "icon":"ic-WSC.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/WSC",
+"rompath":"../../Roms/WS/WSC",
 "imgpath":"../../Imgs/WSC",
 "useswap":0,
 "shortname":0,
