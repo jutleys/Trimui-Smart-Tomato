@@ -1,5 +1,5 @@
 #!/bin/sh
-RA_DIR=/mnt/SDCARD/RetroArch
+RA_DIR=/mnt/SDCARD/Apps/1-RetroArch
 EMU_DIR=/mnt/SDCARD/Emus/CPS2
 cd $RA_DIR/
 

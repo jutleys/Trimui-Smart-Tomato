@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "===================================="
 echo $0 $*
-RA_DIR=/mnt/SDCARD/Apps/RetroArch
+RA_DIR=/mnt/SDCARD/Apps/1-RetroArch
 EMU_DIR=/mnt/SDCARD/Emus/ATARI2600
 cd $RA_DIR/
 
