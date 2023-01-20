@@ -11,7 +11,7 @@ Changelog v1.5.1
 *Removed instructions and other files from root now you just copy the folder named (Copy contents to sd card root) to formatted clean fat32 card.
 *Removed (System Volume Information) from root this may cause issues your sd card will create its own folder.
 *New theme Joss now set to as default has kill music applied.
-*.rertroarch saves/save states & system/Bios folders & screenshots now have been moved to the root of the sd card for easy user-friendly access. Now when updating you don't run the risk of losing your saves.
+*.retroarch saves/save states & system/Bios folders & screenshots now have been moved to the root of the sd card for easy user-friendly access. Now when updating you don't run the risk of losing your saves.
 
 # Shortcuts
 ## TrimUI:
