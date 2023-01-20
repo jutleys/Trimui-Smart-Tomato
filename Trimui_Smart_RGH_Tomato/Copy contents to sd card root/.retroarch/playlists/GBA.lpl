@@ -1,0 +1,1809 @@
+{
+  "version": "1.5",
+  "default_core_path": "/mnt/SDCARD/.retroarch/cores/mgba_libretro.so",
+  "default_core_name": "Nintendo - Game Boy Advance (mGBA)",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "scan_content_dir": "/mnt/SDCARD/Roms/GBA",
+  "scan_file_exts": "",
+  "scan_dat_file_path": "",
+  "scan_search_recursively": false,
+  "scan_search_archives": true,
+  "scan_filter_dat_content": false,
+  "items": [
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Activision Anthology (USA).gba",
+      "label": "Activision Anthology (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Advance Wars (USA) (Rev 1).gba",
+      "label": "Advance Wars (USA) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Advance Wars 2 - Black Hole Rising (USA, Australia).gba",
+      "label": "Advance Wars 2 - Black Hole Rising (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Altered Beast - Guardian of the Realms (USA).gba",
+      "label": "Altered Beast - Guardian of the Realms (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).gba",
+      "label": "Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Avatar - The Last Airbender (USA).gba",
+      "label": "Avatar - The Last Airbender (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Avatar - The Last Airbender - The Burning Earth (USA).gba",
+      "label": "Avatar - The Last Airbender - The Burning Earth (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Baldur's Gate - Dark Alliance (USA).gba",
+      "label": "Baldur's Gate - Dark Alliance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/BattleBots - Beyond the BattleBox (USA).gba",
+      "label": "BattleBots - Beyond the BattleBox (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/BattleBots - Design & Destroy (USA).gba",
+      "label": "BattleBots - Design & Destroy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Beyblade G-Revolution (USA).gba",
+      "label": "Beyblade G-Revolution (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Beyblade V-Force - Ultimate Blader Jam (USA).gba",
+      "label": "Beyblade V-Force - Ultimate Blader Jam (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bionicle (USA).gba",
+      "label": "Bionicle (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba",
+      "label": "Bionicle - Matoran Adventures (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bionicle - Maze of Shadows (USA).gba",
+      "label": "Bionicle - Maze of Shadows (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bionicle Heroes (USA) (En,Fr,De,Es,It,Da).gba",
+      "label": "Bionicle Heroes (USA) (En,Fr,De,Es,It,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Boktai - The Sun Is in Your Hand (Solar Sensor Patched) (USA) (Hack).gba",
+      "label": "Boktai - The Sun Is in Your Hand (Solar Sensor Patched) (USA) (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Boktai 2 - Solar Boy Django (Solar Sensor Patched) (USA) (Hack).gba",
+      "label": "Boktai 2 - Solar Boy Django (Solar Sensor Patched) (USA) (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Boktai 3 - Sabata's Counterattack (English Patch).gba",
+      "label": "Boktai 3 - Sabata's Counterattack (English Patch)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bomberman Max 2 - Blue Advance (USA).gba",
+      "label": "Bomberman Max 2 - Blue Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bomberman Max 2 - Red Advance (USA).gba",
+      "label": "Bomberman Max 2 - Red Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Bomberman Tournament (USA, Europe).gba",
+      "label": "Bomberman Tournament (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Breath of Fire 1 Improved.gba",
+      "label": "Breath of Fire 1 Improved",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Breath of Fire 2 (USA).gba",
+      "label": "Breath of Fire 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).gba",
+      "label": "Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Capcom Classics Mini Mix (USA).gba",
+      "label": "Capcom Classics Mini Mix (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Castlevania - Aria of Sorrow (USA).gba",
+      "label": "Castlevania - Aria of Sorrow (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Castlevania - Circle of the Moon (USA).gba",
+      "label": "Castlevania - Circle of the Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Castlevania - Harmony of Dissonance (USA).gba",
+      "label": "Castlevania - Harmony of Dissonance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Castlevania Double Pack (U)(Trashman).gba",
+      "label": "Castlevania Double Pack (U)(Trashman)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Castlevania Harmony of Dissonance - Definitive Edition (v1.0).gba",
+      "label": "Castlevania Harmony of Dissonance - Definitive Edition (v1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Castlevania HoD Revenge of the Findesiecle Deluxe (v2.0).gba",
+      "label": "Castlevania HoD Revenge of the Findesiecle Deluxe (v2.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Bomberman (USA, Europe).gba",
+      "label": "Classic NES Series - Bomberman (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Castlevania (USA, Europe).gba",
+      "label": "Classic NES Series - Castlevania (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Donkey Kong (USA, Europe).gba",
+      "label": "Classic NES Series - Donkey Kong (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Dr. Mario (USA, Europe).gba",
+      "label": "Classic NES Series - Dr. Mario (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Excitebike (USA, Europe).gba",
+      "label": "Classic NES Series - Excitebike (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Ice Climber (USA, Europe).gba",
+      "label": "Classic NES Series - Ice Climber (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Legend of Zelda (USA, Europe).gba",
+      "label": "Classic NES Series - Legend of Zelda (USA, Europe)",
+      "core_path": "/mnt/SDCARD/.retroarch/cores/mgba_libretro.so",
+      "core_name": "Nintendo - Game Boy Advance (mGBA)",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Metroid (USA, Europe).gba",
+      "label": "Classic NES Series - Metroid (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Pac-Man (USA, Europe).gba",
+      "label": "Classic NES Series - Pac-Man (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Super Mario Bros. (USA, Europe).gba",
+      "label": "Classic NES Series - Super Mario Bros. (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Xevious (USA, Europe).gba",
+      "label": "Classic NES Series - Xevious (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Classic NES Series - Zelda II - The Adventure of Link (USA, Europe).gba",
+      "label": "Classic NES Series - Zelda II - The Adventure of Link (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Comix Zone (Europe) (En,Fr,De,Es,It).gba",
+      "label": "Comix Zone (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash & Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl).gba",
+      "label": "Crash & Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash & Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl).gba",
+      "label": "Crash & Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA).gba",
+      "label": "Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA).gba",
+      "label": "Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash Bandicoot - The Huge Adventure (USA).gba",
+      "label": "Crash Bandicoot - The Huge Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash Bandicoot 2 - N-Tranced (USA).gba",
+      "label": "Crash Bandicoot 2 - N-Tranced (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash Bandicoot Purple - Ripto's Rampage (USA).gba",
+      "label": "Crash Bandicoot Purple - Ripto's Rampage (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crash of the Titans (USA) (En,Fr).gba",
+      "label": "Crash of the Titans (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Crazy Chase (USA).gba",
+      "label": "Crazy Chase (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/CT Special Forces (USA) (En,Fr,De,Es,It,Nl).gba",
+      "label": "CT Special Forces (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl).gba",
+      "label": "CT Special Forces - Bioterror (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl).gba",
+      "label": "CT Special Forces 2 - Back in the Trenches (USA) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dark Arena (USA, Europe).gba",
+      "label": "Dark Arena (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/DemiKids - Dark Version (USA).gba",
+      "label": "DemiKids - Dark Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/DemiKids - Light Version (USA).gba",
+      "label": "DemiKids - Light Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Digimon - Battle Spirit (USA).gba",
+      "label": "Digimon - Battle Spirit (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It).gba",
+      "label": "Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dogz (USA).gba",
+      "label": "Dogz (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dogz - Fashion (USA).gba",
+      "label": "Dogz - Fashion (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dogz 2 (USA).gba",
+      "label": "Dogz 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Donald Duck Advance (USA).gba",
+      "label": "Donald Duck Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Donkey Kong Country (USA).gba",
+      "label": "Donkey Kong Country (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Donkey Kong Country 2 (USA, Australia).gba",
+      "label": "Donkey Kong Country 2 (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Donkey Kong Country 3 (USA, Australia).gba",
+      "label": "Donkey Kong Country 3 (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Doom (USA, Europe).gba",
+      "label": "Doom (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Doom II (USA).gba",
+      "label": "Doom II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball - Advanced Adventure (USA).gba",
+      "label": "Dragon Ball - Advanced Adventure (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball GT - Transformation (USA).gba",
+      "label": "Dragon Ball GT - Transformation (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball Z - Buu's Fury (USA).gba",
+      "label": "Dragon Ball Z - Buu's Fury (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball Z - Collectible Card Game (USA).gba",
+      "label": "Dragon Ball Z - Collectible Card Game (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball Z - Supersonic Warriors (USA).gba",
+      "label": "Dragon Ball Z - Supersonic Warriors (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball Z - Taiketsu (USA).gba",
+      "label": "Dragon Ball Z - Taiketsu (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball Z - The Legacy of Goku (USA).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Ball Z - The Legacy of Goku II (USA).gba",
+      "label": "Dragon Ball Z - The Legacy of Goku II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon Tales - Dragon Adventures (USA).gba",
+      "label": "Dragon Tales - Dragon Adventures (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dragon's Rock (Europe) (En,Fr,De,Es,It).gba",
+      "label": "Dragon's Rock (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Dungeons & Dragons - Eye of the Beholder (USA).gba",
+      "label": "Dungeons & Dragons - Eye of the Beholder (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy I & II - Dawn of Souls (USA, Australia).gba",
+      "label": "Final Fantasy I & II - Dawn of Souls (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy IV Advance (USA, Australia).gba",
+      "label": "Final Fantasy IV Advance (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy Tactics Advance (USA, Australia).gba",
+      "label": "Final Fantasy Tactics Advance (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy V Advance (USA).gba",
+      "label": "Final Fantasy V Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy VI Advance (E).gba",
+      "label": "Final Fantasy VI Advance (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy VI Advance (Sound Restoration).gba",
+      "label": "Final Fantasy VI Advance (Sound Restoration)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Final Fantasy VI Advance (Sound Restoration+Color).gba",
+      "label": "Final Fantasy VI Advance (Sound Restoration+Color)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Gauntlet - Dark Legacy (USA).gba",
+      "label": "Gauntlet - Dark Legacy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Golden Sun (USA, Europe).gba",
+      "label": "Golden Sun (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Golden Sun - The Lost Age (USA, Europe).gba",
+      "label": "Golden Sun - The Lost Age (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Gradius Galaxies (USA).gba",
+      "label": "Gradius Galaxies (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Grand Theft Auto Advance (USA).gba",
+      "label": "Grand Theft Auto Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Gunstar Super Heroes (USA).gba",
+      "label": "Gunstar Super Heroes (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Harvest Moon - Friends of Mineral Town (USA).gba",
+      "label": "Harvest Moon - Friends of Mineral Town (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Harvest Moon - More Friends of Mineral Town (USA).gba",
+      "label": "Harvest Moon - More Friends of Mineral Town (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Hi Hi Puffy AmiYumi - Kaznapped! (USA).gba",
+      "label": "Hi Hi Puffy AmiYumi - Kaznapped! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Hot Wheels - All Out (USA).gba",
+      "label": "Hot Wheels - All Out (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Hot Wheels - Burnin' Rubber (USA).gba",
+      "label": "Hot Wheels - Burnin' Rubber (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Hot Wheels - Stunt Track Challenge (USA, Europe).gba",
+      "label": "Hot Wheels - Stunt Track Challenge (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Hot Wheels - Velocity X (USA).gba",
+      "label": "Hot Wheels - Velocity X (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Hot Wheels - World Race (USA).gba",
+      "label": "Hot Wheels - World Race (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Kingdom Hearts - Chain of Memories (E).gba",
+      "label": "Kingdom Hearts - Chain of Memories (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Kirby & the Amazing Mirror (USA).gba",
+      "label": "Kirby & the Amazing Mirror (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Kirby - Nightmare in Dream Land (USA).gba",
+      "label": "Kirby - Nightmare in Dream Land (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Klonoa - Empire of Dreams (E).gba",
+      "label": "Klonoa - Empire of Dreams (E)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Klonoa 2 - Dream Champ Tournament (USA).gba",
+      "label": "Klonoa 2 - Dream Champ Tournament (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Klonoa Heroes (English v1.1.8)[SRAM].gba",
+      "label": "Klonoa Heroes (English v1.1.8)[SRAM]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Land Before Time, The - Into the Mysterious Beyond (USA) (En,Fr,Es).gba",
+      "label": "Land Before Time, The - Into the Mysterious Beyond (USA) (En,Fr,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Legend of Spyro, The - A New Beginning (USA).gba",
+      "label": "Legend of Spyro, The - A New Beginning (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Legend of Spyro, The - The Eternal Night (USA) (En,Fr).gba",
+      "label": "Legend of Spyro, The - The Eternal Night (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Legend of Zelda, The - A Link to the Past & Four Swords (USA, Australia).gba",
+      "label": "Legend of Zelda, The - A Link to the Past & Four Swords (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Legend of Zelda, The - The Minish Cap (USA).gba",
+      "label": "Legend of Zelda, The - The Minish Cap (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Bionicle (USA) (En,Fr).gba",
+      "label": "LEGO Bionicle (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba",
+      "label": "LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr).gba",
+      "label": "LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Racers 2 (USA) (En,Fr).gba",
+      "label": "LEGO Racers 2 (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da).gba",
+      "label": "LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da).gba",
+      "label": "LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/LEGO Star Wars II - The Original Trilogy (USA).gba",
+      "label": "LEGO Star Wars II - The Original Trilogy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Lufia - The Ruins of Lore (USA).gba",
+      "label": "Lufia - The Ruins of Lore (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Magical Vacation (English v1.0) (Hack).gba",
+      "label": "Magical Vacation (English v1.0) (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mario & Luigi - Superstar Saga (USA, Australia).gba",
+      "label": "Mario & Luigi - Superstar Saga (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mario Party Advance (USA).gba",
+      "label": "Mario Party Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mario vs. Donkey Kong (USA, Australia).gba",
+      "label": "Mario vs. Donkey Kong (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Marvel - Ultimate Alliance (USA).gba",
+      "label": "Marvel - Ultimate Alliance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Masters of the Universe He-Man - Power of Grayskull (USA).gba",
+      "label": "Masters of the Universe He-Man - Power of Grayskull (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mazes of Fate (USA) (En,Fr,De,Es,It).gba",
+      "label": "Mazes of Fate (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Medabots - Metabee Version (USA).gba",
+      "label": "Medabots - Metabee Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Medabots - Rokusho Version (USA).gba",
+      "label": "Medabots - Rokusho Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Medabots AX - Metabee Version (USA).gba",
+      "label": "Medabots AX - Metabee Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Medabots AX - Rokusho Version (USA).gba",
+      "label": "Medabots AX - Rokusho Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man & Bass (USA).gba",
+      "label": "Mega Man & Bass (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Chip Challenge (USA).gba",
+      "label": "Mega Man Battle Chip Challenge (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network (USA).gba",
+      "label": "Mega Man Battle Network (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 2 (USA).gba",
+      "label": "Mega Man Battle Network 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 3 - Blue Version (USA).gba",
+      "label": "Mega Man Battle Network 3 - Blue Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 3 - White Version (USA).gba",
+      "label": "Mega Man Battle Network 3 - White Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 4 - Blue Moon (USA).gba",
+      "label": "Mega Man Battle Network 4 - Blue Moon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 4 - Red Sun (USA).gba",
+      "label": "Mega Man Battle Network 4 - Red Sun (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 5 - Team Colonel (USA).gba",
+      "label": "Mega Man Battle Network 5 - Team Colonel (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 5 - Team Proto Man (USA).gba",
+      "label": "Mega Man Battle Network 5 - Team Proto Man (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 6 - Cybeast Falzar (USA).gba",
+      "label": "Mega Man Battle Network 6 - Cybeast Falzar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Battle Network 6 - Cybeast Gregar (USA).gba",
+      "label": "Mega Man Battle Network 6 - Cybeast Gregar (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 1 (Restoration).gba",
+      "label": "Mega Man Zero 1 (Restoration)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 1 (Tweaks).gba",
+      "label": "Mega Man Zero 1 (Tweaks)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 2 (Restoration).gba",
+      "label": "Mega Man Zero 2 (Restoration)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 2 (Tweaks).gba",
+      "label": "Mega Man Zero 2 (Tweaks)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 3 (Restoration).gba",
+      "label": "Mega Man Zero 3 (Restoration)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 3 (Tweaks).gba",
+      "label": "Mega Man Zero 3 (Tweaks)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 4 (Restoration).gba",
+      "label": "Mega Man Zero 4 (Restoration)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mega Man Zero 4 (Tweaks).gba",
+      "label": "Mega Man Zero 4 (Tweaks)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/MegaMan Zero 1 (U).gba",
+      "label": "MegaMan Zero 1 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Megaman Zero 2 (U).gba",
+      "label": "Megaman Zero 2 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/MegaMan Zero 3 (U).gba",
+      "label": "MegaMan Zero 3 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/MegaMan Zero 4 (U).gba",
+      "label": "MegaMan Zero 4 (U)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Metal Slug Advance (USA).gba",
+      "label": "Metal Slug Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Metroid - Fusion (U)(GBANow).gba",
+      "label": "Metroid - Fusion (U)(GBANow)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Metroid - Zero Mission (USA).gba",
+      "label": "Metroid - Zero Mission (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Metroid Fusion (J) (English v1.0).gba",
+      "label": "Metroid Fusion (J) (English v1.0)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Micro Machines (Europe) (En,Fr,De,Es,It).gba",
+      "label": "Micro Machines (Europe) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mike Tyson Boxing (USA) (En,Fr,De,Es,It).gba",
+      "label": "Mike Tyson Boxing (USA) (En,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mobile Suit Gundam Seed - Battle Assault (USA).gba",
+      "label": "Mobile Suit Gundam Seed - Battle Assault (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Monster Rancher Advance (USA).gba",
+      "label": "Monster Rancher Advance (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Monster Rancher Advance 2 (USA).gba",
+      "label": "Monster Rancher Advance 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Mother 3 (English v1.3)[HQ Sound].gba",
+      "label": "Mother 3 (English v1.3)[HQ Sound]",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Namco Museum (USA).gba",
+      "label": "Namco Museum (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Namco Museum - 50th Anniversary (USA).gba",
+      "label": "Namco Museum - 50th Anniversary (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Phantasy Star Collection (USA).gba",
+      "label": "Phantasy Star Collection (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokémon - Emerald Version (USA, Europe).gba",
+      "label": "Pokémon - Emerald Version (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokémon - Fire Red Version (USA, Europe) (Rev 1).gba",
+      "label": "Pokémon - Fire Red Version (USA, Europe) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokémon - Leaf Green Version (USA).gba",
+      "label": "Pokémon - Leaf Green Version (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokémon - Ruby Version (USA, Europe) (Rev 2).gba",
+      "label": "Pokémon - Ruby Version (USA, Europe) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokémon - Sapphire Version (USA, Europe) (Rev 2).gba",
+      "label": "Pokémon - Sapphire Version (USA, Europe) (Rev 2)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Pokémon Mystery Dungeon - Red Rescue Team (USA, Australia).gba",
+      "label": "Pokémon Mystery Dungeon - Red Rescue Team (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/River City Ransom EX (USA).gba",
+      "label": "River City Ransom EX (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Riviera - The Promised Land (USA).gba",
+      "label": "Riviera - The Promised Land (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Robot Wars - Advanced Destruction (USA).gba",
+      "label": "Robot Wars - Advanced Destruction (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl).gba",
+      "label": "Robot Wars - Extreme Destruction (Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl).gba",
+      "label": "Robotech - The Macross Saga (USA, Europe) (En,Fr,De,Es,It,Nl)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Rockman EXE 4.5 Real Operation (USA v1.1a) (Hack).gba",
+      "label": "Rockman EXE 4.5 Real Operation (USA v1.1a) (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Rockman EXE 4.5 Real Operation Control Patch (Hack).gba",
+      "label": "Rockman EXE 4.5 Real Operation Control Patch (Hack)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/SD Gundam Force (USA).gba",
+      "label": "SD Gundam Force (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shaman King - Legacy of the Spirits - Soaring Hawk (USA).gba",
+      "label": "Shaman King - Legacy of the Spirits - Soaring Hawk (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shaman King - Legacy of the Spirits - Sprinting Wolf (USA).gba",
+      "label": "Shaman King - Legacy of the Spirits - Sprinting Wolf (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shaman King - Master of Spirits (USA).gba",
+      "label": "Shaman King - Master of Spirits (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shaman King - Master of Spirits 2 (USA).gba",
+      "label": "Shaman King - Master of Spirits 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shining Force - Resurrection of the Dark Dragon (USA).gba",
+      "label": "Shining Force - Resurrection of the Dark Dragon (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shining Soul (USA).gba",
+      "label": "Shining Soul (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Shining Soul II (USA).gba",
+      "label": "Shining Soul II (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Sonic Advance (USA) (En,Ja).gba",
+      "label": "Sonic Advance (USA) (En,Ja)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba",
+      "label": "Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).gba",
+      "label": "Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Sonic Battle (USA) (En,Ja,Fr,De,Es,It).gba",
+      "label": "Sonic Battle (USA) (En,Ja,Fr,De,Es,It)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Sonic the Hedgehog - Genesis (USA).gba",
+      "label": "Sonic the Hedgehog - Genesis (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/SpaceTwins.gba",
+      "label": "SpaceTwins",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Spirits & Spells (USA).gba",
+      "label": "Spirits & Spells (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Spyro - Attack of the Rhynocs (USA).gba",
+      "label": "Spyro - Attack of the Rhynocs (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Spyro - Season of Ice (USA).gba",
+      "label": "Spyro - Season of Ice (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Spyro 2 - Season of Flame (USA).gba",
+      "label": "Spyro 2 - Season of Flame (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Spyro Orange - The Cortex Conspiracy (USA).gba",
+      "label": "Spyro Orange - The Cortex Conspiracy (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Spyro Superpack (USA).gba",
+      "label": "Spyro Superpack (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Summon Night - Swordcraft Story (USA).gba",
+      "label": "Summon Night - Swordcraft Story (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Summon Night - Swordcraft Story 2 (USA).gba",
+      "label": "Summon Night - Swordcraft Story 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Summon Night Craft Sword Monogatari 3 (English v10.1).gba",
+      "label": "Summon Night Craft Sword Monogatari 3 (English v10.1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Mario Advance (USA, Europe).gba",
+      "label": "Super Mario Advance (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Mario Advance 2 - Super Mario World (USA, Australia).gba",
+      "label": "Super Mario Advance 2 - Super Mario World (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Mario Advance 3 - Yoshi's Island (USA).gba",
+      "label": "Super Mario Advance 3 - Yoshi's Island (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Mario Advance 4 - Super Mario Bros 3 (U)(Independent).gba",
+      "label": "Super Mario Advance 4 - Super Mario Bros 3 (U)(Independent)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba",
+      "label": "Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Robot Taisen - Original Generation (USA).gba",
+      "label": "Super Robot Taisen - Original Generation (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Super Robot Taisen - Original Generation 2 (USA).gba",
+      "label": "Super Robot Taisen - Original Generation 2 (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Sword of Mana (USA, Australia).gba",
+      "label": "Sword of Mana (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Teen Titans (USA) (En,Fr).gba",
+      "label": "Teen Titans (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Teen Titans 2 (USA) (En,Fr).gba",
+      "label": "Teen Titans 2 (USA) (En,Fr)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/The Land Before Time (USA) (En,Es).gba",
+      "label": "The Land Before Time (USA) (En,Es)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Wario Land 4 (USA, Europe).gba",
+      "label": "Wario Land 4 (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/WarioWare - Twisted! (USA).gba",
+      "label": "WarioWare - Twisted! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/WarioWare, Inc. - Mega Microgame$! (USA).gba",
+      "label": "WarioWare, Inc. - Mega Microgame$! (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Yggdra Union - We'll Never Fight Alone (USA).gba",
+      "label": "Yggdra Union - We'll Never Fight Alone (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA).gba",
+      "label": "Yu Yu Hakusho - Ghostfiles - Spirit Detective (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe).gba",
+      "label": "Yu Yu Hakusho - Ghostfiles - Tournament Tactics (USA, Europe)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    },
+    {
+      "path": "/mnt/SDCARD/Roms/GBA/Zone of the Enders - The Fist of Mars (USA).gba",
+      "label": "Zone of the Enders - The Fist of Mars (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "00000000|crc",
+      "db_name": "GBA.lpl"
+    }
+  ]
+}

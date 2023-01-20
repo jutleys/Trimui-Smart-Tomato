@@ -1,0 +1,7 @@
+{
+"label":"Toggle Music",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Toggle Music"
+}

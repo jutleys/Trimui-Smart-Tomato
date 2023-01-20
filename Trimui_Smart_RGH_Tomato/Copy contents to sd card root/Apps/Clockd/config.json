@@ -1,0 +1,7 @@
+{
+"label":"Clock daemon",
+"icon":"",
+"iconsel":"clockd.png",
+"launch":"launch.sh",
+"description":""
+}

@@ -20,8 +20,6 @@ Changelog v1.5
 *New apps Clock adjustment daemon for TRIMUI smart (thanks eggs).
 *New apps DinguxCommander : Latest version of Dingux Commander, images and texts can be viewed (thanks eggs).
 *New apps FastBoot Patched to make boot-up 3 seconds faster (thanks eggs).
-*GameBoy and Color Roms folder Merged.
-*WonderSwan and Color Roms folder Merged.
 *All .retroarch/cores updated.
 *RetroArch with Achievements enabled on the default launcher of the TrimUI, Just need  to configure it by launcher the Retroarch App and going into settings and setting your account and password.(thanks joss)
 *RetroArch Configure to start ScreenSaver After RetroArch Menu being open for 10s (Simulate Standby).

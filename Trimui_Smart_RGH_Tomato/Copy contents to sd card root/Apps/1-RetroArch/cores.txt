@@ -1,0 +1,2 @@
+starts with stock Trimui Smart cores/info
+then adds Onion cores/info (overwriting any stock)

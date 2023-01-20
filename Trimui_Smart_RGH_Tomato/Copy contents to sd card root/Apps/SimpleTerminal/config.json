@@ -1,0 +1,7 @@
+{
+"label":"SimpleTerminal",
+"icon":"",
+"iconsel":"st_72x72.png",
+"launch":"launch.sh",
+"description":""
+}

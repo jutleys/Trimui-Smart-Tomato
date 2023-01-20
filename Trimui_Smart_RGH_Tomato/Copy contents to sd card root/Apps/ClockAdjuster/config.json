@@ -1,0 +1,7 @@
+{
+"label":"Clock Adjuster",
+"icon":"",
+"iconsel":"clock.png",
+"launch":"launch.sh",
+"description":""
+}

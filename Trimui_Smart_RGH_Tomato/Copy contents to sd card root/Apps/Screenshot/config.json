@@ -1,0 +1,7 @@
+{
+"label":"Screenshot daemon",
+"icon":"",
+"iconsel":"screenshot.png",
+"launch":"launch.sh",
+"description":""
+}

@@ -1,0 +1,11 @@
+{
+"label":"INTELLIVISION",
+"icon":"ic-INT.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/INT",
+"imgpath":"../../Imgs/INT",
+"useswap":0,
+"shortname":0,
+"hidebios":0
+}
