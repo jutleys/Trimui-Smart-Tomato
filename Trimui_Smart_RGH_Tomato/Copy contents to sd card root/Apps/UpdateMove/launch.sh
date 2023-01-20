@@ -2,6 +2,8 @@
 cd $(dirname "$0")
 HOME=/mnt/SDCARD
 
+find /mnt/SDCARD/Roms -type F -name ".gitkeep" -exec rm -rf {} +
+
 mkdir -p /mnt/SDCARD/Bios
 mkdir -p /mnt/SDCARD/Saves/saves
 mkdir -p /mnt/SDCARD/Saves/states
