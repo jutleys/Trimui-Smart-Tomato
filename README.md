@@ -17,7 +17,7 @@ It will create the folders necessary and move the files to the correct location
 
 
 ## Systems 73 Total.
-## Changelog v1.5.1
+## Changelog v1.5.2
 
 *Removed old Retroarch folder which could cause freezing in retroarch.
 
