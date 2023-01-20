@@ -1,4 +1,4 @@
-# Trimui Smart RGH Tomato (release v1.5.1) 20/01/2023 
+# Trimui Smart RGH Tomato (release v1.5.2) 20/01/2023 
 
 ## Instructions
 Extract the zip file to the root of your sd card preformatted to fat32.
