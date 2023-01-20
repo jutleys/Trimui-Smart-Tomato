@@ -2,7 +2,7 @@
 cd $(dirname "$0")
 HOME=/mnt/SDCARD/Emus
 
-[ -d ".GB-GBC" ]
+if [ -d ".GB-GBC" ];
 then
     mv .GB-GBC GB-GBC
     mv GB .GB
@@ -11,3 +11,4 @@ else
     mv GB-GBC .GB-GBC
     mv .GB GB
     mv .GBC GBC
+fi

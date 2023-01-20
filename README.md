@@ -38,3 +38,5 @@ Down - Load State
 Left - ScreenShot
 
 Right - Show FPS
+
+X - Close Content
