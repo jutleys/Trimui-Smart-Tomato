@@ -15,6 +15,8 @@ then
     mv /mnt/SDCARD/Emus/.FC-SFC /mnt/SDCARD/Emus/FC-SFC
     mv /mnt/SDCARD/Emus/FC /mnt/SDCARD/Emus/.FC
     mv /mnt/SDCARD/Emus/SFC /mnt/SDCARD/Emus/.SFC
+
+    ./printstr " Roms Combined "
 else
     mv /mnt/SDCARD/Emus/GB-GBC /mnt/SDCARD/Emus/.GB-GBC
     mv /mnt/SDCARD/Emus/.GB /mnt/SDCARD/Emus/GB
@@ -27,4 +29,6 @@ else
     mv /mnt/SDCARD/Emus/FC-SFC /mnt/SDCARD/Emus/.FC-SFC
     mv /mnt/SDCARD/Emus/.FC /mnt/SDCARD/Emus/FC
     mv /mnt/SDCARD/Emus/.SFC /mnt/SDCARD/Emus/SFC
+
+    ./printstr " Roms Separated "
 fi

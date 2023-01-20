@@ -1,9 +1,9 @@
 {
-"label":"SNES",
+"label":"NES-SNES",
 "icon":"ic-SNES.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/FC/SFC",
+"rompath":"../../Roms/FC",
 "imgpath":"../../Imgs/SFC",
 "useswap":0,
 "shortname":0,
