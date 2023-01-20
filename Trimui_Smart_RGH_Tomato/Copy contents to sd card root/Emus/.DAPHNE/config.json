@@ -1,0 +1,12 @@
+{
+"label":"Daphne",
+"icon":"Daphne.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/DAPHNE",
+"imgpath":"../../Imgs/DAPHNE",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}
