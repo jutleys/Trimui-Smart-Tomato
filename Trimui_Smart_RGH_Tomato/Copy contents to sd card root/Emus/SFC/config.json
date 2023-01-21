@@ -3,7 +3,7 @@
 "icon":"SNES.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/SFC",
+"rompath":"../../Roms/FC/SFC",
 "imgpath":"../../Imgs/SFC",
 "useswap":0,
 "shortname":0,
