@@ -5,7 +5,7 @@ Extract the zip file to the root of your sd card preformatted to fat32.
 
 Add your roms in the apropriate Roms folders and all the artwork in Imgs folder on root in the apropriate folders that have been pre created.
 
-Please make sure you have the corect bios files in place for systems to work place your bios files in SDcard/Bios
+Please make sure you have the corect bios files in place for systems to work. Please place your bios files in SDcard/Bios
 
 
 ## Systems 73 Total.
