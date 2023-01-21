@@ -1,8 +1,0 @@
-{
-    "label":"5-Toggle Empty",
-    "icon":"",
-    "iconsel":"",
-    "launch":"launch.sh",
-    "description":"Disable Emulators that don't have any roms"
-    }
-    

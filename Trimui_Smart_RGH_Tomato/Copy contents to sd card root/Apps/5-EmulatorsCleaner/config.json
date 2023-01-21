@@ -1,0 +1,7 @@
+{
+"label":"5-Emulators Cleaner",
+"icon":"EmulatorsCleaner.png",
+"iconsel":"EmulatorsCleaner.png",
+"launch":"launch.sh",
+"description":"Move Emulators without roms in a subfolder"
+}
