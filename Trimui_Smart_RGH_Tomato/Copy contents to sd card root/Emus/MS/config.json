@@ -1,6 +1,6 @@
 {
-"label":"Master System",
-"icon":"ic-MS.png",
+"label":"MS",
+"icon":"MS.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/MS",

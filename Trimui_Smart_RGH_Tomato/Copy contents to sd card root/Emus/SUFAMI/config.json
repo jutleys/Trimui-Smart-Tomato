@@ -1,0 +1,12 @@
+{
+"label":"SUFAMTRBO",
+"icon":"SUFAMI.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/SUFAMI",
+"imgpath":"../../Imgs/SUFAMI",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

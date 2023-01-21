@@ -1,6 +1,6 @@
 {
 "label":"ZXSPECTRUM",
-"icon":"ic-ZXS.png",
+"icon":"ZXS.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/ZXS",

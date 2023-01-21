@@ -1,6 +1,6 @@
 {
 "label":"VECTREX",
-"icon":"ic-VECTREX.png",
+"icon":"VECTREX.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/VECTREX",

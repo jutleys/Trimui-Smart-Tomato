@@ -1,6 +1,6 @@
 {
 "label":"PCE",
-"icon":"ic-PCE.png",
+"icon":"PCE.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/PCE",

@@ -1,6 +1,6 @@
 {
 "label":"PSX",
-"icon":"ic-PS.png",
+"icon":"PS.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/PS",

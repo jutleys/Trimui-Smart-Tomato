@@ -1,6 +1,6 @@
 {
 "label":"NGC",
-"icon":"ic-NGC.png",
+"icon":"NGC.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/NGC",

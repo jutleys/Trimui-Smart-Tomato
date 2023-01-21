@@ -1,6 +1,6 @@
 {
-"label":"Atari 7800",
-"icon":"ic-atari7800.png",
+"label":"ATARI 7800",
+"icon":"atari7800.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/ATARI7800",

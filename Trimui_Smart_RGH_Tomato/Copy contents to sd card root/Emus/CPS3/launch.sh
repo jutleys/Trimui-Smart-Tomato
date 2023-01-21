@@ -6,4 +6,4 @@ cd $RA_DIR/
 #disable netplay
 NET_PARAM=
 
-HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/fbalpha2012_cps3_libretro.so "$*"
+HOME=/mnt/SDCARD/ $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/fbalpha2012_cps3_libretro.so "$*"

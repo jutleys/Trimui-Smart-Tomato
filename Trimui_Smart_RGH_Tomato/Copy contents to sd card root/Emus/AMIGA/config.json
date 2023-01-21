@@ -1,6 +1,6 @@
 {
 "label":"AMIGA",
-"icon":"ic-AMIGA.png",
+"icon":"AMIGA.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/AMIGA",

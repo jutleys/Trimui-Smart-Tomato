@@ -1,6 +1,6 @@
 {
-"label":"Mega Drive",
-"icon":"ic-MD.png",
+"label":"MD",
+"icon":"MD.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/MD",

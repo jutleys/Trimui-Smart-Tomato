@@ -1,6 +1,6 @@
 {
-"label":"Atari 2600",
-"icon":"ic-atari2600.png",
+"label":"ATARI 2600",
+"icon":"atari2600.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/ATARI2600",

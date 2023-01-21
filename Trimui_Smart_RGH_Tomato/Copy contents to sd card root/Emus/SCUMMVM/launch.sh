@@ -8,8 +8,8 @@ cd $RA_DIR/
 #disable netplay
 NET_PARAM=
 
-HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/scummvm_libretro.so "$*"
+HOME=/mnt/SDCARD/ $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/scummvm_libretro.so "$*"
 
-#HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $RA_DIR/.retroarch/cores/scummvm_libretro.so "$*"
+#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/scummvm_libretro.so "$*"
 #HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $EMU_DIR/scummvm_libretro.so "$*"
 

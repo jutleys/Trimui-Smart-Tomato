@@ -1,9 +1,9 @@
 {
-"label":"NES",
-"icon":"ic-FC.png",
+"label":"FC",
+"icon":"FC.png",
 "iconsel":"",
 "launch":"launch.sh",
-"rompath":"../../Roms/FC/FC",
+"rompath":"../../Roms/FC",
 "imgpath":"../../Imgs/FC",
 "useswap":0,
 "shortname":0,

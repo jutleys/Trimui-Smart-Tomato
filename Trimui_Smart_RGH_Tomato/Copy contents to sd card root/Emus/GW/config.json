@@ -1,6 +1,6 @@
 {
-"label":"Game & Watch",
-"icon":"ic-gw.png",
+"label":"GAME&WATCH",
+"icon":"gw.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/GW",

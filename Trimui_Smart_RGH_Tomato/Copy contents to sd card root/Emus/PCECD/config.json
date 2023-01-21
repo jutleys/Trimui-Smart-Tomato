@@ -1,6 +1,6 @@
 {
 "label":"PCE CD",
-"icon":"ic-PCECD.png",
+"icon":"PCECD.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/PCECD",

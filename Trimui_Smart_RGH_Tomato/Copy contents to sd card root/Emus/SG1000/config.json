@@ -1,6 +1,6 @@
 {
 "label":"SG-1000",
-"icon":"ic-SG1000.png",
+"icon":"SG1000.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/SG1000",

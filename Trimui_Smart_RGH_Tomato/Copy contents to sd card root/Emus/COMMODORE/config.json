@@ -1,6 +1,6 @@
 {
 "label":"C64",
-"icon":"ic-C64.png",
+"icon":"C64.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/COMMODORE",

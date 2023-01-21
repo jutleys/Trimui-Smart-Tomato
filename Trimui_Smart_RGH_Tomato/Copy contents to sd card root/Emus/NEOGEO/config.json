@@ -1,6 +1,6 @@
 {
 "label":"NEOGEO",
-"icon":"ic-neogeo.png",
+"icon":"neogeo.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/NEOGEO",

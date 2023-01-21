@@ -1,6 +1,6 @@
 {
-"label":"Sega CD",
-"icon":"ic-SEGACD.png",
+"label":"SEGACD",
+"icon":"SEGACD.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/SEGACD",

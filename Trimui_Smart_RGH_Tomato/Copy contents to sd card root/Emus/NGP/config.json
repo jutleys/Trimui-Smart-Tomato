@@ -1,6 +1,6 @@
 {
-"label":"NGP/NGPC",
-"icon":"ic-NGP.png",
+"label":"NGP",
+"icon":"NGP.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/NGP",

@@ -1,6 +1,6 @@
 {
 "label":"MS-DOS",
-"icon":"ic-DOS.png",
+"icon":"DOS.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/DOS",

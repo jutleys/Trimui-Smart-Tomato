@@ -1,6 +1,6 @@
 {
 "label":"COLECO",
-"icon":"ic-COL.png",
+"icon":"COL.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/COLECO",

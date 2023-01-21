@@ -1,6 +1,6 @@
 {
 "label":"CPS3",
-"icon":"ic-cps3.png",
+"icon":"cps3.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/CPS3",

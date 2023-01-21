@@ -1,6 +1,6 @@
 {
 "label":"MSX",
-"icon":"ic-MSX.png",
+"icon":"MSX.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/MSX",

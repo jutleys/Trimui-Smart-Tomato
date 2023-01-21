@@ -1,6 +1,6 @@
 {
-"label":"Game Gear",
-"icon":"ic-GG.PNG",
+"label":"GAMEGEAR",
+"icon":"GG.PNG",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/GG",

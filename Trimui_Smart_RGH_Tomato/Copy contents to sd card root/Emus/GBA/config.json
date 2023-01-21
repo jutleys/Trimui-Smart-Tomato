@@ -1,6 +1,6 @@
 {
-"label":"GameBoy Advance",
-"icon":"ic-GBA.png",
+"label":"GBA",
+"icon":"GBA.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/GBA",

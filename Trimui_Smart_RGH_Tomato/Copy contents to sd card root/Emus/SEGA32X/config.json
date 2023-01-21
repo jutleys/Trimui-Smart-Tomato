@@ -1,6 +1,6 @@
 {
 "label":"SEGA32X",
-"icon":"ic-32X.png",
+"icon":"32X.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/SEGA32X",
