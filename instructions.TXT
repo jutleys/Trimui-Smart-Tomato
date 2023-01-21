@@ -1,30 +1,17 @@
-# Trimui Smart RGH Tomato (release v1.5.2) 20/01/2023 
+# Trimui Smart RGH Tomato (release v1.5.1) 20/01/2023 
 
-## NEW OPTION TO UPDATE
-
-If updating from version 1.5.1 or lower, just copy over and overwrite the new files to the SD card, and run the new app "Move files for Update"
-
-It will create the folders necessary and move the files to the correct location
 
 ## Instructions
 Extract the zip file to the root of your sd card preformatted to fat32.
 
 Add your roms in the apropriate Roms folders and all the artwork in Imgs folder on root in the apropriate folders that have been pre created.
 
-Please make sure you have the corect bios files in place for systems to work place your bios files in SDcard/Bios
+Please make sure you have the corect bios files in place for systems to work. Please place your bios files in SDcard/Bios
 
-#### IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETE GITKEEPAPP
+
 
 ## Systems 73 Total.
-## Changelog v1.5.2
-
-*Added a new app to move the files to the new more user-friendly location
-
-*Added a new app to group and ungroup emulators: GB-GBC, WS-WSC and FC-SFC
-
-*Added a new app to remove .gitkeep files inside Roms folders, to avout cluttering the list
-
-*Added new filters to retroarch
+## Changelog v1.5.1
 
 *Removed old Retroarch folder which could cause freezing in retroarch.
 
