@@ -8,7 +8,7 @@ cd $RA_DIR/
 #disable netplay
 NET_PARAM=
 
-HOME=$RA_DIR/ $RA_DIR/ra32.trimui -v $NET_PARAM -L $EMU_DIR/easyrpg_libretro.so "$*"
+HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/easyrpg_libretro.so "$*"
 
 #HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $RA_DIR/.retroarch/cores/easyrpg_libretro.so "$*"
 #HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $EMU_DIR/easyrpg_libretro.so "$*"
