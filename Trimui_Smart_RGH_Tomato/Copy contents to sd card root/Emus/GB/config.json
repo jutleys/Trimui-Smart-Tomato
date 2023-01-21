@@ -1,6 +1,6 @@
 {
 "label":"GameBoy",
-"icon":"ic-gb.png",
+"icon":"gb.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/GB/GB",

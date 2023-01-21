@@ -1,6 +1,6 @@
 {
 "label":"WSC",
-"icon":"ic-WSC.png",
+"icon":"WSC.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/WS/WSC",

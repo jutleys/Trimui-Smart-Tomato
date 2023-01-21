@@ -1,6 +1,6 @@
 {
 "label":"GameBoy Color",
-"icon":"ic-GBC.png",
+"icon":"GBC.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/GB/GBC",

@@ -1,6 +1,6 @@
 {
 "label":"WS",
-"icon":"ic-WS.png",
+"icon":"WS.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/WS/WS",
