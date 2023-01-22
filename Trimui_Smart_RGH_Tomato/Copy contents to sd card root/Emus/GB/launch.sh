@@ -2,7 +2,7 @@
 echo "===================================="
 echo $0 $*
 RA_DIR=/mnt/SDCARD/Apps/1-RetroArch
-EMU_DIR=/mnt/SDCARD/Emus/GBC
+EMU_DIR=/mnt/SDCARD/Emus/GB
 cd $RA_DIR/
 
 #disable netplay
