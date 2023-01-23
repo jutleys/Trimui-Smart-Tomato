@@ -1,4 +1,4 @@
-# Trimui Smart RGH Tomato (release v1.5.2) 20/01/2023 
+# Trimui Smart RGH Tomato (release v1.5.3) 23/01/2023 
 
 NEW OPTION TO UPDATE
 If updating from version 1.5.1 or lower, just copy over and overwrite the new files to the SD card, and run the new app "Move files for Update"
@@ -14,8 +14,21 @@ Please make sure you have the corect bios files in place for systems to work. Pl
 
 IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETE GITKEEPAPP
 
+Files needed for ports: [OnionOS Wiki](https://github.com/OnionUI/Onion/wiki/Ports-Collection)
 
-Changelog v1.5.2
+
+Changelog v1.5.3
+
+*Ports Have been inported from Onion OS, everyone that uses a retroarch core is working, the others were disabled for the time being.
+
+*Some plataform names in RETROGAMING option changed to be more user friendly
+
+*New System Level theme added by Schmurtz🧅, installed via a new app called "Schmurtz Theme Installer"
+
+*New TomatoOS icon added to the represent the SDCARD (thanks Schmurtz🧅)
+
+*Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅)
+
 *Added a new app to move the files to the new more user-friendly location
 
 *Added a new app to disable emulators that don't have Roms (thanks Schmurtz🧅)
