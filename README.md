@@ -29,7 +29,7 @@ It will create the folders necessary and move the files to the correct location
 
 *New TomatoOS icon added to the represent the SDCARD (thanks Schmurtz🧅)
 
-*Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅)
+*Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅 and eggs)
 
 ## Systems 73 Total.
 

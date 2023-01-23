@@ -19,7 +19,7 @@ Changelog v1.5.3
 *Some plataform names in RETROGAMING option changed to be more user friendly
 *New System Level theme added by Schmurtz🧅, installed via a new app called "Schmurtz Theme Installer"
 *New TomatoOS icon added to the represent the SDCARD (thanks Schmurtz🧅)
-*Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅)
+*Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅 and eggs)
 
 
 
