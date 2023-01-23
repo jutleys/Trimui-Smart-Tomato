@@ -1,5 +1,9 @@
 #!/bin/bash
 
+find /mnt/SDCARD/Roms -type f -name '.gitkeep' -delete
+find /mnt/SDCARD/Roms -type f -name '.gitkeep' -exec rm {} +
+find /mnt/SDCARD/Roms -type F -name ".gitkeep" -exec rm -rf {} +
+
 RomsFolder="/mnt/SDCARD/Roms"
 EmuFolder="/mnt/SDCARD/Emus"
 EmuDisabledFolder="/mnt/SDCARD/Emus/_DisabledEmus"
