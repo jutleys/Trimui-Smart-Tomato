@@ -14,9 +14,9 @@ It will create the folders necessary and move the files to the correct location
 
 3) Please make sure you have the corect bios files in place for systems to work. Please place your bios files in SDcard/Bios
 
-```IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETEGITKEEP APP
+>IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETEGITKEEP APP
 
-*Files needed for ports: [OnionOS Wiki](https://github.com/OnionUI/Onion/wiki/Ports-Collection)```
+>*Files needed for ports: [OnionOS Wiki](https://github.com/OnionUI/Onion/wiki/Ports-Collection)```
 
 
 ## Changelog v1.5.3
