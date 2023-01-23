@@ -12,7 +12,7 @@ It will create the folders necessary and move the files to the correct location
 
 3) Please make sure you have the corect bios files in place for systems to work. Please place your bios files in SDcard/Bios
 
-3.1) IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETE GITKEEPAPP
+*IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETE GITKEEPAPP
 
 *Files needed for ports: [OnionOS Wiki](https://github.com/OnionUI/Onion/wiki/Ports-Collection)
 
