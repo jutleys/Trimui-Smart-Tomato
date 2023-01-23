@@ -30,20 +30,6 @@ Changelog v1.5.3
 *Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅)
 
 ## Systems 73 Total.
-## Changelog v1.5.1
-
-
-*Removed old Retroarch folder which could cause freezing in retroarch.
-
-*Removed game core files from Emus folders as now scrips point to .retroarch/cores resulting in a smaller file to download.
-
-*Removed instructions and other files from root now you just copy the folder named (Copy contents to sd card root) to formatted clean fat32 card.
-
-*Removed (System Volume Information) from root this may cause issues your sd card will create its own folder.
-
-*New theme Joss now set to as default has kill music applied.
-
-*.retroarch saves/save states & system/Bios folders & screenshots now have been moved to the root of the sd card for easy user-friendly access. Now when updating you don't run the risk of losing your saves.
 
 
 # Shortcuts
