@@ -1,12 +1,13 @@
 # Trimui Smart RGH Tomato (release v1.5.3) 23/01/2023 
 
-NEW OPTION TO UPDATE
+## NEW OPTION TO UPDATE
 
 If updating from version 1.5.1 or lower, just copy over and overwrite the new files to the SD card, and run the new app "Move files for Update"
 It will create the folders necessary and move the files to the correct location
 
 
 ## Instructions
+
 1) Extract the zip file to the root of your sd card preformatted to fat32.
 
 2) Add your roms in the apropriate Roms folders and all the artwork in Imgs folder on root in the apropriate folders that have been pre created.
