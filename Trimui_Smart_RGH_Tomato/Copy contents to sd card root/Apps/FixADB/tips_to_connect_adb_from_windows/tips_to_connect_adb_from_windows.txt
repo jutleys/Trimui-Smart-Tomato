@@ -1,0 +1,11 @@
+1. if Android ADB driver is already installed on your PC, remove it completely and restart PC
+2. get "Trimui_Smart_Factory_Flasher.7z" and extract https://discord.com/channels/529983248114122762/1010172628515950692/1036846521888538674
+3. overwrite "Trimui Smart Factory Flasher/Drivers/ADB_Driver/android_winusb.inf" with "android_winusb.inf" in this archive
+4. overwrite "/etc/init.d/adbd" in smart with "adbd" in this archive with Commander
+5. after overwriting, turn off smart, connect USB to PC and turn it on
+6. open device manager and install driver from unrecognized device by specifying ADB_Driver folder above
+7. now you can "adb shell" from console (adb.exe is included in Trimui Smart Factory Flasher, latest is here https://developer.android.com/studio/releases/platform-tools )
+8. you can also use webadb https://app.webadb.com/ (note that after using adb from console, you must run "adb kill-server" before using webadb)
+
+
+Credits : Eggs

@@ -1,0 +1,7 @@
+{
+"label":"Fix ADB",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":""
+}
