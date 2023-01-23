@@ -37,6 +37,7 @@ It will create the folders necessary and move the files to the correct location
 # Shortcuts
 ## TrimUI:
 Sound Down and UP - Select + L/R
+
 Brightness Down and UP - Start + L/R
 
 ## RetroArch:
