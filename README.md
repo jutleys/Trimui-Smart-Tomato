@@ -17,7 +17,7 @@ It will create the folders necessary and move the files to the correct location
 *Files needed for ports: [OnionOS Wiki](https://github.com/OnionUI/Onion/wiki/Ports-Collection)
 
 
-Changelog v1.5.3
+## Changelog v1.5.3
 
 *Ports Have been inported from Onion OS, everyone that uses a retroarch core is working, the others were disabled for the time being.
 
