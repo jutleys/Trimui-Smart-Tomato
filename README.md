@@ -45,9 +45,9 @@ On the first boot after extracting the zip over and overwriting, the boot will t
 
 # Shortcuts
 ## TrimUI:
-Sound Down and UP - Select + L/R
+Sound Down and Up - Select + L/R
 
-Brightness Down and UP - Start + L/R
+Brightness Down and Up - Start + L/R
 
 ## RetroArch:
 #### Select +
