@@ -1,6 +1,6 @@
 {
 "label":"Ports",
-"icon":"ic-ports.png",
+"icon":"ports.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/PORTS",

@@ -4,4 +4,26 @@ echo 0 > /sys/devices/platform/sunxi-led/leds/led1/brightness
 echo 0 > /sys/devices/platform/sunxi-led/leds/led2/brightness
 echo 0 > /sys/devices/platform/sunxi-led/leds/led3/brightness
 
+
+if grep -xq 0 /mnt/SDCARD/trimui/app/updated.txt ; then
+	find /mnt/SDCARD/Roms -type f -name ".gitkeep" -exec rm -rf {} +
+	find /mnt/SDCARD/Emus -type f -name ".gitkeep" -exec rm -rf {} +
+	find /mnt/SDCARD/Saves -type f -name ".gitkeep" -exec rm -rf {} +
+	find /mnt/SDCARD/Bios -type f -name ".gitkeep" -exec rm -rf {} +
+	find /mnt/SDCARD/screenshots -type f -name ".gitkeep" -exec rm -rf {} +
+
+	mkdir -p /mnt/SDCARD/Bios
+	mkdir -p /mnt/SDCARD/Saves/saves
+	mkdir -p /mnt/SDCARD/Saves/states
+	mkdir -p /mnt/SDCARD/screenshots
+
+	mv /mnt/SDCARD/.retroarch/system/* /mnt/SDCARD/Bios
+	mv /mnt/SDCARD/.retroarch/saves/* /mnt/SDCARD/Saves/saves
+	mv /mnt/SDCARD/.retroarch/states/* /mnt/SDCARD/Saves/states
+	mv /mnt/SDCARD/.retroarch/screenshots/* /mnt/SDCARD/screenshots
+
+	rm -fr /mnt/SDCARD/trimui/app/updated.txt
+	echo "1" > /mnt/SDCARD/trimui/app/updated.txt
+fi
+
 exit 1
