@@ -5,6 +5,8 @@ RA_DIR=/mnt/SDCARD/Apps/1-RetroArch
 EMU_DIR=/mnt/SDCARD/Emus/SATELLAVIEW
 cd $RA_DIR/
 
-HOME=/mnt/SDCARD/ $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/snes9x2002_libretro.so "$*"
+HOME=/mnt/SDCARD/ $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/snes9x_libretro.so "$*"
 #HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/snes9x2002_libretro.so "$*"
-#HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $EMU_DIR/snes9x2010_libretro.so "$*"
+#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/snes9x2005_libretro.so "$*"
+#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/snes9x2005_plus_libretro.so "$*"
+#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/snes9x2010_libretro.so "$*"
