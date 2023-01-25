@@ -1,0 +1,12 @@
+{
+"label":"SuperGrafx",
+"icon":"sgfx.png",
+"iconsel":"sgfx_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SGX",
+"imgpath":"../../Imgs/SGX",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"pce|cue"
+}

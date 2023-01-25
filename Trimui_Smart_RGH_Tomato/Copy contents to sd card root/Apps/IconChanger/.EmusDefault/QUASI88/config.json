@@ -1,0 +1,12 @@
+{
+"label":"QUASI88",
+"icon":"QUASI88.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/PCEIGHTYEIGHT",
+"imgpath":"../../Imgs/PCEIGHTYEIGHT",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

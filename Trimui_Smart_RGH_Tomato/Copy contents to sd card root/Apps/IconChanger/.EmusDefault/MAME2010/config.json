@@ -1,0 +1,12 @@
+{
+"label":"MAME2010",
+"icon":"ic-mame4droid.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/MAME2010",
+"imgpath":"../../Imgs/MAME2010",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

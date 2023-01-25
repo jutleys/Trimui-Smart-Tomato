@@ -1,0 +1,12 @@
+{
+"label":"Sega CD",
+"icon":"SEGACD.png",
+"iconsel":"segacd_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEGACD",
+"imgpath":"../../Imgs/SEGACD",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

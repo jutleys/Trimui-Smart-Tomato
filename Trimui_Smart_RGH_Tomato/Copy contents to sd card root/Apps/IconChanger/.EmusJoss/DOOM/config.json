@@ -1,0 +1,12 @@
+{
+"label":"Doom Mods",
+"icon":"doom.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/DOOM",
+"imgpath":"../../Imgs/DOOM",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":""
+}

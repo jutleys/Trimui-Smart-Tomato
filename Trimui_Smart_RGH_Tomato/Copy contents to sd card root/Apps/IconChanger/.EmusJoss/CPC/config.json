@@ -1,0 +1,12 @@
+{
+"label":"AMSTRAD CPC",
+"icon":"CPC.PNG",
+"iconsel":"cpc_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPC",
+"imgpath":"../../Imgs/CPC",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

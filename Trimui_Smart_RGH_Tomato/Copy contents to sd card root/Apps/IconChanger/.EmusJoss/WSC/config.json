@@ -1,0 +1,12 @@
+{
+"label":"WonderSwan Color",
+"icon":"WSC.png",
+"iconsel":"wsc_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/WSC",
+"imgpath":"../../Imgs/WSC",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"wsc|ws|zip"
+}

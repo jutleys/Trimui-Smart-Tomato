@@ -1,0 +1,12 @@
+{
+"label":"Pokemon Mini",
+"icon":"POKE.PNG",
+"iconsel":"poke_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PKM",
+"imgpath":"../../Imgs/PKM",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"mini"
+}

@@ -1,0 +1,11 @@
+{
+"label":"Atari 5200",
+"icon":"5200.png",
+"iconsel":"5200_sel.ico",
+"launch":"launch.sh",
+"rompath":"../../Roms/ATARI5200",
+"imgpath":"../../Imgs/ATARI5200",
+"useswap":0,
+"shortname":0,
+"hidebios":0
+}

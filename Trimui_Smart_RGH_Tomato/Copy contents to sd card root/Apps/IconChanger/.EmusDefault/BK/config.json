@@ -1,0 +1,12 @@
+{
+"label":"elektronikabk",
+"icon":"BK.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/EBK",
+"imgpath":"../../Imgs/EBK",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

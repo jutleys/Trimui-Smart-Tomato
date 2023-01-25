@@ -1,0 +1,12 @@
+{
+"label":"VIDEOPAC",
+"icon":"ODY.png",
+"iconsel":"ody_sel.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/VIDEOPAC",
+"imgpath":"../../Imgs/VIDEOPAC",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

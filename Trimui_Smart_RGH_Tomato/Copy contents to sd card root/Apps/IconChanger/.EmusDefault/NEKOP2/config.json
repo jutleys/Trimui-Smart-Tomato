@@ -1,0 +1,12 @@
+{
+"label":"NEKOP2",
+"icon":"NEKOP2.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/PCNINETYEIGHT",
+"imgpath":"../../Imgs/PCNINETYEIGHT",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

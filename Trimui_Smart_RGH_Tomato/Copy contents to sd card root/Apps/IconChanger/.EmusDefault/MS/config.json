@@ -1,0 +1,12 @@
+{
+"label":"Master System",
+"icon":"MS.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/MS",
+"imgpath":"../../Imgs/MS",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"sms|rom|gg|sg"
+}

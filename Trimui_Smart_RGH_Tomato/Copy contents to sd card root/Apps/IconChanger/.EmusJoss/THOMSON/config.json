@@ -1,0 +1,12 @@
+{
+"label":"THOMSON",
+"icon":"THOMSON.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/THOMSON",
+"imgpath":"../../Imgs/THOMSON",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

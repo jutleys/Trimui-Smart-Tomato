@@ -1,0 +1,12 @@
+{
+"label":"TurboGrafx-16",
+"icon":"PCE.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/PCE",
+"imgpath":"../../Imgs/PCE",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"pce|cue"
+}
