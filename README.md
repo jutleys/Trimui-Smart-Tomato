@@ -10,8 +10,9 @@
 
 ## NEW OPTION TO UPDATE
 
-If updating from version 1.5.1 or lower, just copy over and overwrite the new files to the SD card, and run the new app "Move files for Update"
-It will create the folders necessary and move the files to the correct location
+Auto-Update Working!
+
+On the first boot after extracting the zip over and overwriting, the boot will take longer as it's deleting unnecessary files, and moving some to the correct locations.
 
 
 ## Instructions
