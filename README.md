@@ -1,4 +1,4 @@
-# Tomato OS 
+###### Tomato OS 
 An enhanced operating system for your Trimui Smart, featuring fine-tuned emulation with 70+ built-in emulators, & Ports
 a wealth of customization options, and much more. Performant, reliable, and straightforward retro gaming right in your pocket.
 
