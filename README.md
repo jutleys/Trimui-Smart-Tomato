@@ -5,14 +5,11 @@
 ![Tomato OS](https://user-images.githubusercontent.com/36275837/214452990-b32eb5e7-a295-471d-8677-edd32f29b3e1.jpeg)
 
 
-
-# Trimui Smart RGH Tomato (release v1.5.3) 23/01/2023 
-
 ## NEW OPTION TO UPDATE
 
-Auto-Update Working!
+Simple to install, just extract the zip file as instructed and copy everything to your sdcard, overwriting whatever is needed.
 
-On the first boot after extracting the zip over and overwriting, the boot will take longer as it's deleting unnecessary files, and moving some to the correct locations.
+#### IMPORTANT: First boot should take 5-10min since a lot of files are being copied
 
 
 ## Instructions
@@ -23,24 +20,12 @@ On the first boot after extracting the zip over and overwriting, the boot will t
 
 3) Please make sure you have the corect bios files in place for systems to work. Please place your bios files in SDcard/Bios
 
->IF SOME EMULATORS HAVE A "0001" FILE THAT IS EMPTY, RUN THE DELETEGITKEEP APP
->
+4) Put the SDCARD back in your device, and tur it on (First Boot after updating should take about 5-10mins)
+
 >Files needed for ports: [OnionOS Wiki](https://github.com/OnionUI/Onion/wiki/Ports-Collection)
 
 
-## Changelog v1.5.3
-
-*Ports Have been inported from Onion OS, everyone that uses a retroarch core is working, the others were disabled for the time being.
-
-*Some plataform names in RETROGAMING option changed to be more user friendly
-
-*New System Level theme added by Schmurtz🧅, installed via a new app called "Schmurtz Theme Installer"
-
-*New TomatoOS icon added to the represent the SDCARD (thanks Schmurtz🧅)
-
-*Added a new app to fix ADB connection. Doesn't require any reboot after running the app (thanks Schmurtz🧅 and eggs)
-
-## Systems 73 Total.
+## Changelog on the Release Page
 
 
 # Shortcuts
