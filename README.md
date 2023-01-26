@@ -5,9 +5,6 @@
 ![Tomato OS](https://user-images.githubusercontent.com/36275837/214452990-b32eb5e7-a295-471d-8677-edd32f29b3e1.jpeg)
 
 
-
-# Trimui Smart RGH Tomato (release v1.5.3) 23/01/2023 
-
 ## NEW OPTION TO UPDATE
 
 Simple to install, just extract the zip file as instructed and copy everything to your sdcard, overwriting whatever is needed.
