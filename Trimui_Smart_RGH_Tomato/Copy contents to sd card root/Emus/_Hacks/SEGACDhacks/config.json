@@ -1,0 +1,12 @@
+{
+"label":"SEGACD hacks",
+"icon":"SEGACD.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEGACD/Hacks",
+"imgpath":"../../Imgs/SEGACDhacks",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":""
+}

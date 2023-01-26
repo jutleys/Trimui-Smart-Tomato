@@ -5,9 +5,11 @@
 #mv /mnt/SDCARD/Apps/IconChanger/Emus /mnt/SDCARD/Apps/IconChanger/.Emus
 
 if [ -f Default.txt ]; then
-    cp /mnt/SDCARD/Apps/IconChanger/.EmusJoss /mnt/SDCARD/Emus
-    rm Default.txt
+    cp -r /mnt/SDCARD/Apps/IconChanger/.EmusJoss/* /mnt/SDCARD/Emus/
+    rm -f Default.txt
+    sh /mnt/SDCARD/Tomato/bin/printstr " Joss Icons Applied "
 else
-    cp /mnt/SDCARD/Apps/IconChanger/.EmusDefault /mnt/SDCARD/Emus
+    cp -r /mnt/SDCARD/Apps/IconChanger/.EmusDefault/* /mnt/SDCARD/Emus/
     touch Default.txt
+    sh /mnt/SDCARD/Tomato/bin/printstr " Default Icons Applied "
 fi

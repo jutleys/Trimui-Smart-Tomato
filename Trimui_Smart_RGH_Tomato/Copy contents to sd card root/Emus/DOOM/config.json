@@ -1,6 +1,6 @@
 {
 "label":"Doom Mods",
-"icon":"Doom.png",
+"icon":"ic-ports.png",
 "iconsel":"",
 "launch":"launch.sh",
 "rompath":"../../Roms/DOOM",

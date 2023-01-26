@@ -1,0 +1,12 @@
+{
+"label":"PSX hacks",
+"icon":"PS.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/PS/Hacks",
+"imgpath":"../../Imgs/PShacks",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"bin|cue|img|mdf|pbp|toc|cbn|m3u|chd"
+}

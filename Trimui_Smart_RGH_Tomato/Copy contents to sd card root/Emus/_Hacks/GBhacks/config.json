@@ -1,0 +1,12 @@
+{
+"label":"GB Hacks",
+"icon":"GB.png",
+"iconsel":"",
+"launch":"launch.sh",
+"rompath":"../../Roms/GB/Hacks",
+"imgpath":"../../Imgs/GBhacks",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gb|gbc"
+}

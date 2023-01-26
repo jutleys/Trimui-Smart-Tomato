@@ -8,4 +8,4 @@ cd $RA_DIR/
 NET_PARAM=
 
 HOME=/mnt/SDCARD/ $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/pcsx_rearmed_libretro.so "$*"
-#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/pcsx_rearmed_libretro.so "$*"
+#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/swanstation_libretro.so "$*"

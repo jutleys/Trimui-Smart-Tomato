@@ -9,6 +9,3 @@ cd $RA_DIR/
 NET_PARAM=
 
 HOME=/mnt/SDCARD/ $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/picodrive_libretro.so "$*"
-
-#HOME=/mnt/SDCARD $RA_DIR/retroarch -v $NET_PARAM -L /mnt/SDCARD/.retroarch/cores/picodrive_libretro.so "$*"
-#HOME=$RA_DIR/ $RA_DIR/retroarch -v $NET_PARAM -L $EMU_DIR/picodrive_libretro.so "$*"
