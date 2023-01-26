@@ -1,0 +1,7 @@
+{
+"label":"[OFF] Guest Profile",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Enable and Disable Guest Profile"
+}

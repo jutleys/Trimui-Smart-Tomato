@@ -1,5 +1,5 @@
 {
-    "label":"Icon Changer",
+"label":"[Default] Icon Changer",
     "icon":"icon.png",
     "iconsel":"icon.png",
     "launch":"launch.sh",

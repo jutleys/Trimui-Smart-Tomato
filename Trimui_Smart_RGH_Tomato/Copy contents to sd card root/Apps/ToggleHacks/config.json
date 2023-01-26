@@ -1,5 +1,5 @@
 {
-"label":"Toggle Hack Emulators",
+"label":"[OFF] Hack Emulators",
 "icon":"icon.png",
 "iconsel":"icon.png",
 "launch":"launch.sh",
