@@ -1,0 +1,7 @@
+**Name of Release:** Trimui Smart Tomato OS v1.5.x
+**Version:** v1.5.x
+**Date of Release:** (//)
+**Devices:** Trimui Smart
+**Download:** 
+
+**Changelog:**
