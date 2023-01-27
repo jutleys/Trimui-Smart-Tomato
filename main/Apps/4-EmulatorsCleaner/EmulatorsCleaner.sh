@@ -19,7 +19,7 @@ for subfolder in $EmuFolder/*/; do
 
 		if ! find $RomsFolder/$RomFolderName '!' -name '*.db' '!' -name '*.sh' -mindepth 1 -maxdepth 1 |  read; then
 			echo "Removing $(basename "$subfolder") emulator (no $RomFolderName roms)."
-			mv $subfolder "$EmuDisabledFolder/"
+			mv -f $subfolder "$EmuDisabledFolder/"
 			# rom content has probably changed recently, we force a refresh
 			rm "$RomsFolder/$RomFolderName/${RomFolderName}_cache2.db.json" 2> /dev/null
 			let NumRemoved++;
@@ -41,7 +41,7 @@ for subfolder in $EmuFolder/_DisabledEmus/*/; do
 
 		if find $RomsFolder/$RomFolderName '!' -name '*.db' '!' -name '*.sh' -mindepth 1 -maxdepth 1 |  read; then
 			echo "Adding $(basename "$subfolder") emulator (for $RomFolderName roms)."
-			mv $subfolder "$EmuFolder/"
+			mv -f $subfolder "$EmuFolder/"
 			# rom content has probably changed recently, we force a refresh
 			rm "$RomsFolder/$RomFolderName/${RomFolderName}_cache2.db.json" 2> /dev/null
 			let NumAdded++;
