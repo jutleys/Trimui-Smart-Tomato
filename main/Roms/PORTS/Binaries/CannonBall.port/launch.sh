@@ -3,15 +3,12 @@ echo $0 $*
 progdir=`dirname "$0"`
 homedir=`dirname "$1"`
 
-if [ -f "/mnt/SDCARD/Roms/PORTS/Binaries/Cave Story.port/FILES_HERE/Doukutsu.exe" ]; then
+if [ -f "/mnt/SDCARD/Emu/PORTS/Binaries/CannonBall.port/FILES_HERE/epr-10187.88" ]; then
 
 	cd /mnt/SDCARD/Apps/1-RetroArch/
-	HOME=/mnt/SDCARD /mnt/SDCARD/Apps/1-RetroArch/retroarch -L /mnt/SDCARD/.retroarch/cores/nxengine_libretro.so "/mnt/SDCARD/Roms/PORTS/Binaries/Cave Story.port/FILES_HERE/Doukutsu.exe"
-	
+	HOME=/mnt/SDCARD /mnt/SDCARD/Apps/1-RetroArch/retroarch -L /mnt/SDCARD/.retroarch/cores/cannonball_libretro.so "/mnt/SDCARD/Emu/PORTS/Binaries/CannonBall.port/FILES_HERE/epr-10187.88"
+
 else
-	cd "/mnt/SDCARD/Roms/PORTS/Binaries/missingFile"
+	cd "/mnt/SDCARD/Emu/PORTS/Binaries/missingFile"
 	./infoPanel
 fi
-
-
-
