@@ -1,5 +1,5 @@
-Extract the auto update folder, it uses the same structure as before: /Copy contents to sd card root/trimui/app/
-inside the app folder, there will be four files, no need to mess with them
+It uses the same structure as before: /Copy contents to sd card root/trimui/app/
+inside the /trimui/app folder, there will be four files, no need to mess with them
 zip the next release excluding the AUTOUPDATE FOLDER:
 
 Folders And Files to be Zipped:

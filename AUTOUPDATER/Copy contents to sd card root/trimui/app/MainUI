@@ -1,0 +1,70 @@
+#!/bin/sh
+
+#echo 0 > /sys/devices/platform/sunxi-led/leds/led1/brightness
+#echo 0 > /sys/devices/platform/sunxi-led/leds/led2/brightness
+#echo 0 > /sys/devices/platform/sunxi-led/leds/led3/brightness
+
+
+#Move Old Folders----------------------------------------------------
+mkdir -p /mnt/SDCARD/Bios
+mkdir -p /mnt/SDCARD/Saves/saves
+mkdir -p /mnt/SDCARD/Saves/states
+mkdir -p /mnt/SDCARD/Saves/Guest/saves
+mkdir -p /mnt/SDCARD/Saves/Guest/states
+mkdir -p /mnt/SDCARD/screenshots
+
+mv /mnt/SDCARD/.retroarch/system/* /mnt/SDCARD/Bios
+mv /mnt/SDCARD/.retroarch/saves/* /mnt/SDCARD/Saves/saves
+mv /mnt/SDCARD/.retroarch/states/* /mnt/SDCARD/Saves/states
+mv /mnt/SDCARD/.retroarch/screenshots/* /mnt/SDCARD/screenshots
+#--------------------------------------------------------------------
+
+#Backup Retroarch.cfg--------------------------------------------------------------------
+mv /mnt/SDCARD/.retroarch/retroarch.cfg /mnt/SDCARD/trimui/app/
+mv /mnt/SDCARD/.retroarch/retroarchGuest.cfg /mnt/SDCARD/trimui/app/
+mv /mnt/SDCARD/.retroarch/retroarchDefault.cfg /mnt/SDCARD/trimui/app/
+mv /mnt/SDCARD/Roms/favourite2.json /mnt/SDCARD/trimui/app/
+mv /mnt/SDCARD/Roms/favourite2.json.bak /mnt/SDCARD/trimui/app/
+mv /mnt/SDCARD/Roms/recentlist.json /mnt/SDCARD/trimui/app/
+#----------------------------------------------------------------------------------------
+
+#Delete Folders and Files------------------------------------------------------
+rmdir -rf /mnt/SDCARD/.retroarch
+rmdir -rf /mnt/SDCARD/Apps
+rmdir -rf /mnt/SDCARD/Emus
+rmdir -rf /mnt/SDCARD/Tomato
+rmdir -rf /mnt/SDCARD/TrimUI
+rmdir -rf /mnt/SDCARD/adc_value_dump
+rmdir -rf /mnt/SDCARD/autorun.inf
+rmdir -rf /mnt/SDCARD/Tomato.ico
+#--------------------------------------------------------------------------
+
+#Extract Update-------------------------------------
+./7zz x "update.7z" -o"/mnt/SDCARD/" -y
+#---------------------------------------------------
+
+#Delete GitKeep---------------------------------------------------------
+find /mnt/SDCARD/ -type f -name ".gitkeep" -exec rm -rf {} +
+#-----------------------------------------------------------------------
+
+#Restore Retroarch.cfg--------------------------------------------------------------------
+mv /mnt/SDCARD/trimui/app/retroarch.cfg /mnt/SDCARD/.retroarch/
+mv /mnt/SDCARD/trimui/app/retroarchGuest.cfg /mnt/SDCARD/.retroarch/
+mv /mnt/SDCARD/trimui/app/retroarchDefault.cfg /mnt/SDCARD/.retroarch/
+mv /mnt/SDCARD/trimui/app/favourite2.json /mnt/SDCARD/Roms/
+mv /mnt/SDCARD/trimui/app/favourite2.json.bak /mnt/SDCARD/Roms/
+mv /mnt/SDCARD/trimui/app/recentlist.json /mnt/SDCARD/Roms/
+#----------------------------------------------------------------------------------------
+
+#Fix MainUI-------------------------------------------------------------------------------
+rm /mnt/SDCARD/trimui/app/MainUI
+rm /mnt/SDCARD/trimui/app/7zz
+rm /mnt/SDCARD/trimui/app/update.7z
+mv /mnt/SDCARD/trimui/app/MainUIUpdated /mnt/SDCARD/trimui/app/MainUI
+#-----------------------------------------------------------------------------------------
+
+touch /mnt/SDCARD/trimui/app/UpdateSuccessful.txt
+
+#Reboot----------------
+reboot
+#----------------------
